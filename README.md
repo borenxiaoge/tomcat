@@ -16,7 +16,14 @@ export PATH=${PATH}:${ANT_HOME}/bin
 ```properties
 base.path=/Users/liboren/OpenSource/tomcat/lib
 ```
-2. 执行命令 ant ide-intellij
+2. 执行命令
+
+```shell
+ant ide-intellij
+```
+
+
+
 
 ### 启动调试
 org.apache.catalina.startup.BootStrap main方法
